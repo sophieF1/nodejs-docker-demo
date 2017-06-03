@@ -1,4 +1,3 @@
-
 # BASE image
 FROM alpine:3.1 AS base
 
