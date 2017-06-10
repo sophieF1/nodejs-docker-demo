@@ -1,2 +1,2 @@
 # nodejs-docker-demo
-Simple nodejs app to demonstrate multi-stage-build in docker
+Simple Node.js app to demonstrate multi-stage-build in docker
